@@ -1,1 +1,5 @@
 # Trabajo_Acompa-amiento_Ciencia_de_Datos_Grupo_5
+
+El presente trabajo se orienta en desarrollar un análisis a la base de datos correspondiente a los medicamentos incluídos en el "Plan Obligatorio de Salud" (POS).
+La información contenida en las tablas y gráficas estará principalmente orientada a la relación entre las diferentes formas farmacéuticas y sus respectivos estados, las proporciones según la totalidad del cubrimiento del plan y las vigencias de sus registros INVIMA.
+El objetivo de esta compilación y tratamiento a los datos es facilitar la clasificación de los medicamentos contemplados en el POS según su vigencia ante el INVIMA y sus formas farmacéuticas, lo cual puede proveer información de interés para empresas que requieran analizar escases o alta oferta de medicamentos según su presentación farmacéutica.
